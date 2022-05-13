@@ -1,4 +1,5 @@
 # bootcamp-spring-maven-java
+Stub for creating simple Java 17 + Spring boot + Maven project
 
 ## VSCode
 ### Prerequisits:
